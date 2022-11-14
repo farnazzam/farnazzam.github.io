@@ -1,28 +1,28 @@
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Computer Science
-      institution: University of Maryland, College Park
-      year: Expected 2025
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: MS in Human-Computer Interaction
-      institution: Polytechnic University of Madrid, (1 semester before joining UMD)
-      year: Sep 2019 - Jan 2020
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-    - title: BS in Computer Engineering
-      institution: Amirkabir University of Technology
-      year: 2014 - 2019
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD in Computer Science
+#       institution: University of Maryland, College Park
+#       year: Expected 2025
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
+#       #   - title: Description 3.
+#       #     contents:
+#       #       - Sub-description 1.
+#       #       - Sub-description 2.
+#     - title: MS in Human-Computer Interaction
+#       institution: Polytechnic University of Madrid, (1 semester before joining UMD)
+#       year: Sep 2019 - Jan 2020
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
+#     - title: BS in Computer Engineering
+#       institution: Amirkabir University of Technology
+#       year: 2014 - 2019
 
-- title: Experience
+- title: 
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
