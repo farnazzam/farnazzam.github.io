@@ -84,7 +84,7 @@
                 </div>
               </li> -->
               {%- else %}
-                {% if p.permalink == '/cv/' %}
+                {% if p.permalink == '/cv/'%}
                   <li class="nav-item {% if page.title == p.title %}active{% endif %}">
                     <a class="nav-link" href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer">{{ p.title }}
                       {%- if page.title == p.title -%}
@@ -93,7 +93,7 @@
                     </a>
                   </li>
                 {%- endif -%}
-                {% if p.permalink == '/publications/' %}
+                {% if p.permalink == '/publications/' or p.permalink == '/experience/'%}
                   <li class="nav-item {% if page.title == p.title %}active{% endif %}">
                     <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
                       {%- if page.title == p.title -%}
