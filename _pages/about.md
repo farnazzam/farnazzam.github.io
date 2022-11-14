@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS Department | <a href='#'>University of Maryland, College Park</a>
+subtitle: <a href='https://www.cs.umd.edu'>CS Department</a> | <a href='https://www.umd.edu'>University of Maryland, College Park</a>
 
 profile:
   align: right
