@@ -17,8 +17,8 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am PhD student and a research assistant in the Department of Computer Science at the University of Maryland, College Park. 
-I am a member of the IAM lab and HCI lab under supervision of Dr. Kacorri. My broad interest lies at the intersection of AI and Accessibility. Currently I am understang how non-expert users interact with AI, such as training a machine learning model, and how we can make such interactions more effective. Prior to this my research at the CATT involved technologies involving blind users and navigation. 
+I am a CS PhD student and a research assistant at the University of Maryland, College Park. 
+I am a member of the Intelligent Assistive Machines lab and HCI lab under supervision of [Dr. Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/). My broad interest lies at the intersection of AI and Accessibility. Currently I am understang how non-expert users interact with AI, such as training a machine learning model, and how we can make such interactions more effective. Prior to this my research at the CATT involved technologies involving blind users and navigation. 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
