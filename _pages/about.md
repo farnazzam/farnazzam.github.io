@@ -21,7 +21,8 @@ I am a CS PhD student and a research assistant at the University of Maryland, Co
 
 Before joining the PhD program at UMD, I spent a semester as an HCI master student at the [Polytechnic University of Madrid](https://www.upm.es/internacional) where I did several HCI related projects and courses. I recieved my Bachelors degree from [Amirkabir University of Technology](https://aut.ac.ir/en) in Computer Engineering.
 
-I am passionate about 
+I am passionate about..
+ 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
