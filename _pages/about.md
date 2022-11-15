@@ -14,7 +14,7 @@ profile:
 # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a CS PhD student and a research assistant at the University of Maryland, College Park. I am a member of the [Intelligent Assistive Machines (IAM) Lab](https://iam.umd.edu) and the [Human-Computer Interaction Lab (HCIL)](https://hcil.umd.edu). Under the supervision of [Dr. Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/) I do research at the intersection of AI and Accessibility. Currently I am understang how non-expert users interact with AI, and how can these interactions, such as training a machine learning model, be made more effective. Prior to this my research at the [Center for Advanced Transportation Technology (CATT)](https://www.cattlab.umd.edu) involved design and development of technologies involving blind users and navigation.
